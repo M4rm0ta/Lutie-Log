@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Anatomical muscle vectors adapted from flutter-body-atlas (github.com/kit-g/flutter-body-atlas, BSD-3-Clause); original SVG artwork by Ryan Graves (Figma Community), licensed CC BY 4.0. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="106dp" android:height="186dp"
+    android:viewportWidth="53" android:viewportHeight="93">
+    <path android:pathData="M28.246 16.656 C28.675 16.37 29.452 16.308 30.577 16.237 C30.843 16.22 31.149 16.513 31.487 16.656 C31.824 16.799 32.08 16.656 33.204 17.034 C34.329 17.413 34.932 18.374 35.362 18.752 C35.791 19.13 36.251 19.376 36.701 20.868 C36.219 20.639 35.607 20.16 35.362 19.948 L35.362 20.163 L35.467 21.41 C35.232 21.962 34.733 23.379 34.618 24.63 C34.258 24.974 33.335 25.346 32.918 25.49 C32.159 25.7 31.229 25.781 30.117 25.633 C26.354 25.132 26.855 22.014 26.886 20.102 C26.916 18.19 27.816 16.942 28.246 16.656" android:fillColor="#66007AFF" android:strokeColor="#FFFFFFFF" android:strokeWidth="0.22"/>
+    <path android:pathData="M24.711 16.656 C24.281 16.37 23.504 16.308 22.38 16.237 C22.114 16.22 21.807 16.513 21.47 16.656 C21.132 16.799 20.877 16.656 19.752 17.034 C18.627 17.413 18.024 18.374 17.595 18.752 C17.165 19.13 16.705 19.376 16.255 20.868 C16.738 20.639 17.349 20.16 17.595 19.948 L17.595 20.163 L17.49 21.41 C17.725 21.962 18.224 23.379 18.338 24.63 C18.698 24.974 19.622 25.346 20.038 25.49 C20.797 25.7 21.727 25.781 22.84 25.633 C26.602 25.132 26.101 22.014 26.071 20.102 C26.04 18.19 25.14 16.942 24.711 16.656" android:fillColor="#66007AFF" android:strokeColor="#FFFFFFFF" android:strokeWidth="0.22"/>
+</vector>
